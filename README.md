@@ -1,7 +1,9 @@
 # Prueba7mo
 
-Autor:Rodrigo Carrera Alva
+Estamos trabajando 
 
-Año: 2024
+Dentro del arhivo 
 
-Desde Linux
+De la nueva rama
+
+Llamada "Linea1"
